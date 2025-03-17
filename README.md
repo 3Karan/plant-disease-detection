@@ -25,7 +25,7 @@ pip install torch torchvision transformers pillow seaborn matplotlib scikit-lear
 ## Usage
 1. **Data Preparation**: Ensure that your dataset is organized in the following structure:
    ```
-   Rice 2/
+   Rice/
        ├── Healthy/
        └── Unhealthy/
            ├── Brown_Spot/
