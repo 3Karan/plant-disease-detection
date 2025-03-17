@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-puts "Master"
+puts "Update"
 =======
 puts "Hello World!"
 >>>>>>> testing
