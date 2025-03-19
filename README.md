@@ -1,4 +1,3 @@
-# Plant Disease Detection
 
 ## Overview
 This project implements a deep learning model for detecting plant diseases using image classification techniques. The model is designed to classify rice plant leaves as either healthy or unhealthy and further classify unhealthy leaves into specific disease categories.
